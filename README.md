@@ -1,6 +1,10 @@
 # 5Challenges
-Social media mobile application that allows students at the Claremont Colleges to challenge each other
+A social media mobile application that allows students at the Claremont Colleges to challenge each other
 
-Created by: Maureen Naval, Angelo Liao, Sean Xin
+# Platform
+5Challenges was built as a web application and used Intel XDK to simulate the content on a mobile device.
 
-Created for: 5C Hackathon (Fall 2014) - Won Honorable Mention in Intermediate Division
+# Recognition
+Developers: Maureen Naval (front-end), Sean Xin (front-end), Angelo Liao (back-end)
+
+The application was created for the 5C Hackathon (Fall 2014) where it won Honorable Mention in Intermediate Division
